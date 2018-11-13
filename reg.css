@@ -1,0 +1,23 @@
+
+		.Div{
+
+			align-content: stretch;
+			padding: 20px;
+			border: 2px solid black;
+			border-radius: 10px;
+			border-color: black;
+			background-color: gray;
+			width : 300px;
+			margin-top: 80px;
+			margin-left: 800px;
+		}
+
+		.tbl{
+
+		}
+
+		body{
+			background-image: url();
+			
+		}
+

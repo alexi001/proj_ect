@@ -1,0 +1,59 @@
+<!Doctype html>
+	<html>
+	<title>
+		Login 
+	</title>
+<link rel = "stylesheet" type = "text/css" href = "login.css">
+<script type="text/javascript" src = "login.js"></script>>
+
+       
+        <div class = "div-one">
+        		<h1 id = "header"><font color = "black">login here </font></h1>
+
+                
+
+    
+
+        		<FORM method = "GET" action = ""> 
+        			<div class = "loginform">
+        				<table cellspacing="10px">
+
+        				<tr><td><font color= "black"><h7 id = "usr">User Name</h7></font></td><td><input type = "text" name = "nm" id = "name" placeholder="UserName" onmouseover="changeUserInProperty()" onmouseleave = "changeUserOutProperty()" required></td></tr><br>
+
+        				<tr><td><font color = "black"><h7 id = "ps">Password</h7></font></td><td><input type = "password" name = "pwd" id = "pwd" placeholder="Password" onmouseover="changePassInProperty()" onmouseleave = "changePassOutProperty()" required></td></tr>
+
+        				<tr><td><font color = "red">Branch</font></td>
+        					<td>
+        						<select name="Branch">
+        						<option value = "cse">CSE</option>
+        						<option value = "ece">ECE</option>
+        						<option vlaue = "civil">Civil</option>	
+                            </select>
+        					</td>
+        				</tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr><td><font color = "red">Session</font></td>
+        					<td>
+        						<select name="Year">
+        						<option value = "1617">2016-2017</option>
+        						<option value = "1718">2017-2018</option>
+        						<option vlaue = "1819">2018-2019</option>
+                                </select>	
+        					</td>
+        				</tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr></tr>
+        				<tr><td><input type = "button" onclick = "checkCredentials()" name = "btn" value = "Submit" color = "red" class = "btn"></td></tr>
+
+        				</table>
+        			</div>
+		</FORM> 
+    </div>
+	</body>
+</html>

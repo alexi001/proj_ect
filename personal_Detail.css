@@ -1,0 +1,16 @@
+#tab1,#tab2{
+		height: 400px;
+		width : 500px;
+		text-align: center;
+		border-radius: 10px;
+	}
+	.fnt{
+		color: black;
+	}
+	.legfnt{
+		color : black;
+	}
+	body{
+		background-color : ;
+		background-image: url();
+	}
