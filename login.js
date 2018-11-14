@@ -1,7 +1,7 @@
    	function checkCredentials(){
 		var x = document.getElementById("name").value;
 		var y = document.getElementById("pwd").value;
-		if(x == "shobhit" && y == "123"){
+		if(x == "alexi" && y == "123"){
 			window.alert("login Successfull");
 		}
 		else{

@@ -1,6 +1,6 @@
 .loginform{
 	    float: left;
-		background-color: white;
+		background-color: ;
 		height: 300px;
 		width : 300px;
 	}
@@ -8,7 +8,7 @@
         width :100px;
     }
     .div-one{
-        align-content: right-side;
+        align-content: center-right;
         padding: 20px;
         border: 2px solid black;
         border-radius: 15px;
@@ -16,7 +16,7 @@
         width : 300px;
         margin-top: 50px;
         margin-left: 200px;
-        background-color: ;
+        background-color: gray ;
         height: 400px;
         width : 900px;
 
@@ -28,4 +28,6 @@
         background-color: black;
         height: 300px;
     }
-	
+	body{
+		background-image: url("paralax1.jpg");	
+	}
