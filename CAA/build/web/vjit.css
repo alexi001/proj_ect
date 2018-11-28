@@ -1,0 +1,61 @@
+
+/*menu section start*/
+.menu ul 
+{
+    text-align:center;	
+	list-style-type:none;
+	margin-left:500px;
+}
+.menu li
+{
+    padding:5px 20px;
+    border-radius:5%;
+	width:80px;
+    float:left;
+}
+.menu ul li
+{
+background-color:#ff4000;
+}
+.menu li:hover
+{
+background-color:#808080;
+color:#ff4000;
+}
+.menu li a
+{
+    text-decoration:none;
+	color:#fff;
+}
+.menu li ul li
+{
+   
+	
+}
+.menu li ul
+{
+    display:none;
+	margin:5px 300px 0px 0px;
+	padding:0px;
+	position:absolute;
+}
+.menu li:hover ul
+{
+  display:block;
+  color:#ff4000;
+  
+}
+.image1 img
+{
+   border-radius:10px;
+   
+   width:100px;
+   height:80px;
+}
+.menu5
+{
+float:left;
+}
+/*menu section end*/
+
+

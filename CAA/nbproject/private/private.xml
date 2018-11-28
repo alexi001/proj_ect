@@ -3,17 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/login.css</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/src/java/connectThem/loginServlet.java</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/Registration.html</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/login.js</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/personal_Detail.css</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/src/java/connectThem/signServlet.java</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/Home.css</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/src/java/connectThem/javaConnect.java</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/login.html</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/index.html</file>
-            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CAA/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/src/java/com/DB/DBConnection.java</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/magazines.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/studenthome.jsp</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/studentlogin.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/studentregact.jsp</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/about.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/index.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/viewphotos.jsp</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/aboutcollege.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/index_1.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/index_1_1.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/src/java/com/material/ImageServlet.java</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/src/java/com/material/UploadServlet.java</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/vjit.css</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/src/java/com/material/viewphotos.java</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/blog.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/graduation.html</file>
+            <file>file:/C:/Users/alexi/Documents/NetBeansProjects/CollegeManagement1/web/studentreg.html</file>
         </group>
     </open-files>
 </project-private>
